@@ -4,13 +4,13 @@
 
 # 🚀 MLOps & DevOps Standard Operating Procedures (SOP)
 
-This document systematizes workflows ranging from source code management (Git) and application packaging (Docker) to model orchestration (MLflow) and cloud deployment. [cite_start]It serves as a comprehensive guide for AI Engineers to manage daily tasks, advanced system monitoring, and large-scale training.
+This document systematizes workflows ranging from source code management (Git) and application packaging (Docker) to model orchestration (MLflow) and cloud deployment. It serves as a comprehensive guide for AI Engineers to manage daily tasks, advanced system monitoring, and large-scale training.
 
 ---
 
 ## 1. Linux & System Fundamentals
 
-[cite_start]Foundational skills for server navigation, file management, and resource monitoring[cite: 4, 5].
+Foundational skills for server navigation, file management, and resource monitoring.
 
 ### 1.1. Navigation & File Management
 * [cite_start]**List files with details:** `ls -lha` includes hidden files and sizes[cite: 6].
@@ -108,4 +108,5 @@ This document systematizes workflows ranging from source code management (Git) a
     * [cite_start]`Ctrl+b, % / "`: Split the screen vertically or horizontally[cite: 37].
 
 [cite_start]**💡 DevOps Tip:** Always run `git status` before committing [cite: 22] [cite_start]and use `df -h` to check disk space before starting large training runs[cite: 17].
+
 
