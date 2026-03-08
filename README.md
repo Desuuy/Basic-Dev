@@ -4,7 +4,7 @@
 
 # 🚀 MLOps & DevOps Standard Operating Procedures (SOP)
 
-[cite_start]This document systematizes workflows ranging from source code management (Git) and application packaging (Docker) to model orchestration (MLflow) and cloud deployment[cite: 3, 59, 60]. [cite_start]It serves as a comprehensive guide for AI Engineers to manage daily tasks, advanced system monitoring, and large-scale training[cite: 3, 5, 8].
+This document systematizes workflows ranging from source code management (Git) and application packaging (Docker) to model orchestration (MLflow) and cloud deployment. [cite_start]It serves as a comprehensive guide for AI Engineers to manage daily tasks, advanced system monitoring, and large-scale training.
 
 ---
 
@@ -108,3 +108,4 @@
     * [cite_start]`Ctrl+b, % / "`: Split the screen vertically or horizontally[cite: 37].
 
 [cite_start]**💡 DevOps Tip:** Always run `git status` before committing [cite: 22] [cite_start]and use `df -h` to check disk space before starting large training runs[cite: 17].
+
