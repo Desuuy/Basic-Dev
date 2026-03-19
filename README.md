@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="09af1d89-6b93-469b-9740-241f750e067a_Git+and+GitHub.jpg" alt="Git and GitHub" width="50%">
+  <img src="Source\09af1d89-6b93-469b-9740-241f750e067a_Git+and+GitHub.jpg" alt="Git and GitHub" width="50%">
 </p>
 
 # 🚀 MLOps & DevOps Standard Operating Procedures (SOP)
